@@ -1,0 +1,30 @@
+---
+title: "Assigment - Data Driven Decision Making"
+author: Colin van Leeuwen -
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8M5n3uhWKHE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+## Why was data driven decision making (3DM) useful in this business case?
+
+Humans are bad at choosing between many options, they quickly get overwhelmed and choosing none or making poor choices(Schwartz, 2015). Netflix thought of a way how they can help their members. For this Netflix made use of the data they collected. Knowing this and using data to profile customers and make recommendations for video's based on this, they could keep costumers excited and stick to them. By using that data and making their service better, they outrun their competition.
+
+## How did the organization apply 3DM?
+
+Gomez-Uribe, C. A., & Hunt, N. (2016) from Netflix inc. describes that the algorithm of the Personalized Video Ranker (PVR) as its name suggests, the algorithm orders the available videos for each profile in a personalized way.
+The resulting ordering is used to select the order of the videos in genre and other values, and is the reason why the same genre row shown to different members often has completely different videos. Because they use PVR so widely it is good at generalpurpose relative rankings throughout the entire catalog; this limits how personalized it can actually be. Furthermore, they describe that PVR even works better when they blend personalized signals with a pretty healthy dose of (unpersonalized) popularity.
+
+## What can the organization do with 3DM that they couldn’t do before?
+
+Netflix can by using this kind of algorithms and data, recommend each of their members a personalized video ranking based on their profile, without analyzing each member by (human) hand. This helps the members make choices like they never seen before and puts Netflix (next to other factors) on #1 when it comes to online (movie) streaming services.
+
+## References
+Schwartz, B. (2015). The Paradox of Choice—Why More is Less. from https://static1.squarespace.com/static/5df3bc9a62ff3e45ae9d2b06/t/5e384fcdf7bd6b4910e2cc17/1580748751460/Paradox+of+Choice.Schwartz.EBS.pdf
+
+Gomez-Uribe, C. A., & Hunt, N. (2016). The Netflix Recommender System: Algorithms, Business Value, and Innovation. ACM Transactions on Management Information Systems, 6(4), 1–19. https://doi.org/10.1145/2843948
