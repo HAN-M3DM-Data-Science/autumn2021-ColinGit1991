@@ -1,0 +1,33 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Colin van Leeuwen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4_GTAK4QjXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
+
+
+## What was the business problem?
+
+SME's like this clothing store want to get more customers in their shops and want to know more about the behavior of their customers. To do so, they are using ble beacons to track phone's and send notifications. So, the goals are getting more customers in their shop and collecting data about the (shopping) behavior of their customers, in order to analyze this data to create a better shopping experience and providing a better service(Bethan & Blazquez Cano, 2016). 
+
+## How was it translated into a data mining problem?
+
+The collection of data can be used for various outcomes and 'problems' the two main are:
+- With the collection of this data, marketing advertisements could be tested in order to see which attract the most customers. These data combined with maybe other sources of data can lead to new insights and correlations.
+- Also the data collected from the customers inside the shop could lead to a better understanding of the route they walk and see if they can learn form this and improve their service. The information also can be used to analyze at what days and hours it is busy and use this data it can help make schedule planning better.
+- Literature shows even futher innovations, like camera's and sensors that can registrar how long you are looking at an object and which one you are picking from the shelf(Piotrowicz & Cuthbertson, 2019).
+
+## What is the realized business value?
+
+More customers coming in to the shop, buying more goods (through the messages and ads) and improving the shop (the setup of the shop, walking pad etc) and its service could lead to more sales, better customer service and CLV. This improves the overall business value and revenue. 
+
+## Reference
+
+Bethan, A. & Blazquez Cano, M. (2016). IoT+Small Data: Transforming in-store shopping analytics & services. 2016 8th International Conference on Communication Systems and Networks (COMSNETS), 1–6. https://doi.org/10.1109/COMSNETS.2016.7439946
+
+Piotrowicz, W., & Cuthbertson, R. (2019). The Use of Mobile Technologies in Physical Stores: The Case of Fashion Retailing, 169-264. Springer International Publishing. https://doi.org/10.1007/978-3-319-98273-1
