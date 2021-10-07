@@ -1,0 +1,25 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## What features define a data driven business?
+
+Data Driven businesses collect, analyze and use data in all layers of the company, they place data in the center of their decision making. These data driven companies often combine all the collected data together in data warehouses to make complete analysis of their customers and processes. They often also use other (external) data sources as; weather, geographic, economy, IoT sensors and other available data sources. Furthermore, these data driven businesses then can use this data to make advanced and predictive analytics. The predictive analytics can then be used for further operations, in their strategy and forming the processes. Data Analysts, Scientists, engineers and other data analytic functions often are present in departments of the business
+
+## What are the important features of a data culture?
+
+a data-driven culture is about replacing gut feeling with decisions based on data-derived facts. Companies with a data driven culture treats data as a main resource for insights in every layer and department of the company. They see data as an advantage over their competitors. he ultimate goal is to build a culture that helps all members of the organization to collaborate to move data at the center of decision-making process. 
+
+## What are the transformation steps towards a mature data driven business?
+
+In order to transform the organisation into a data driven business, data driven decision making needs to be implemented in the business strategy. Together with this strategy, a good leader and leadership needs to be experienced with data and aware of the opportunities of data. The leadership and other employees need to have the right SKill sets in order to make good use of the data. Furthermore, a good (infra)structure for both the company structure and the IT structure needs to be line for a data driven business.In order to become a even more mature data driven business the results needs to be continue measured in order to improve operations.   
+
