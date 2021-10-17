@@ -8,7 +8,7 @@ output:
 ---
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/m5Iij3zQp_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe>
 
 
 ## What features define a data driven business?
@@ -23,3 +23,10 @@ a data-driven culture is about replacing gut feeling with decisions based on dat
 
 In order to transform the organisation into a data driven business, data driven decision making needs to be implemented in the business strategy. Together with this strategy, a good leader and leadership needs to be experienced with data and aware of the opportunities of data. The leadership and other employees need to have the right SKill sets in order to make good use of the data. Furthermore, a good (infra)structure for both the company structure and the IT structure needs to be line for a data driven business.In order to become a even more mature data driven business the results needs to be continue measured in order to improve operations.   
 
+## References 
+
+Brownlow, J., Zaki, M., Neely, A., & Urmetzer, F. (2015). Data-Driven Business Models: A Blueprint for Innovation. https://doi.org/10.13140/RG.2.1.2233.2320
+
+Berndtsson, M., Forsberg, D., Stein, D., Svahn, T. (2018)
+Becoming a data-driven organisation from:
+https://www.diva-portal.org/smash/get/diva2:1263294/FULLTEXT01.pdf
